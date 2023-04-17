@@ -34,7 +34,7 @@ namespace numeroPrimo
       static void Main(string[] args)
       {
         int valor = leerNumero();
-        var esPrimo = (esNumeroPrimo(valor)) ? "El valor ingresado es un numero primo" + valor : "El valor ingresado NO es un numero primo " + valor;
+        var esPrimo = (esNumeroPrimo(valor)) ? "El valor ingresado es un numero primo = " + valor : "El valor ingresado NO es un numero primo =  " + valor;
 
         Console.Write(esPrimo);
 
