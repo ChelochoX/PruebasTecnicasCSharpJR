@@ -1,0 +1,15 @@
+C:\Sistema Ventas\PruebasTecnicas C#\leerNumero\numeroPrimo\bin\Debug\net7.0\numeroPrimo.exe
+C:\Sistema Ventas\PruebasTecnicas C#\leerNumero\numeroPrimo\bin\Debug\net7.0\numeroPrimo.deps.json
+C:\Sistema Ventas\PruebasTecnicas C#\leerNumero\numeroPrimo\bin\Debug\net7.0\numeroPrimo.runtimeconfig.json
+C:\Sistema Ventas\PruebasTecnicas C#\leerNumero\numeroPrimo\bin\Debug\net7.0\numeroPrimo.dll
+C:\Sistema Ventas\PruebasTecnicas C#\leerNumero\numeroPrimo\bin\Debug\net7.0\numeroPrimo.pdb
+C:\Sistema Ventas\PruebasTecnicas C#\leerNumero\numeroPrimo\obj\Debug\net7.0\numeroPrimo.csproj.AssemblyReference.cache
+C:\Sistema Ventas\PruebasTecnicas C#\leerNumero\numeroPrimo\obj\Debug\net7.0\numeroPrimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistema Ventas\PruebasTecnicas C#\leerNumero\numeroPrimo\obj\Debug\net7.0\numeroPrimo.AssemblyInfoInputs.cache
+C:\Sistema Ventas\PruebasTecnicas C#\leerNumero\numeroPrimo\obj\Debug\net7.0\numeroPrimo.AssemblyInfo.cs
+C:\Sistema Ventas\PruebasTecnicas C#\leerNumero\numeroPrimo\obj\Debug\net7.0\numeroPrimo.csproj.CoreCompileInputs.cache
+C:\Sistema Ventas\PruebasTecnicas C#\leerNumero\numeroPrimo\obj\Debug\net7.0\numeroPrimo.dll
+C:\Sistema Ventas\PruebasTecnicas C#\leerNumero\numeroPrimo\obj\Debug\net7.0\refint\numeroPrimo.dll
+C:\Sistema Ventas\PruebasTecnicas C#\leerNumero\numeroPrimo\obj\Debug\net7.0\numeroPrimo.pdb
+C:\Sistema Ventas\PruebasTecnicas C#\leerNumero\numeroPrimo\obj\Debug\net7.0\numeroPrimo.genruntimeconfig.cache
+C:\Sistema Ventas\PruebasTecnicas C#\leerNumero\numeroPrimo\obj\Debug\net7.0\ref\numeroPrimo.dll
